@@ -2,3 +2,5 @@ ritu
 blue 
 scout
 rocket
+monty 
+moga
